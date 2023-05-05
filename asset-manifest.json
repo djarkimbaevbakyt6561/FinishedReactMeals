@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FinishedReactMeals/static/css/main.efeebebc.css",
+    "main.js": "/FinishedReactMeals/static/js/main.d91fa085.js",
+    "static/media/summary-image.png": "/FinishedReactMeals/static/media/summary-image.504eb560a6d2c2bc57fb.png",
+    "static/media/Group.svg": "/FinishedReactMeals/static/media/Group.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/FinishedReactMeals/index.html",
+    "main.efeebebc.css.map": "/FinishedReactMeals/static/css/main.efeebebc.css.map",
+    "main.d91fa085.js.map": "/FinishedReactMeals/static/js/main.d91fa085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efeebebc.css",
+    "static/js/main.d91fa085.js"
+  ]
+}
